@@ -732,5 +732,14 @@
       "Price": "57.14",
       "category": "Beverages"
     }
+  ],
+  "cart": [
+
+  ],
+  "login":[
+
+  ],
+  "signup":[
+    
   ]
 }
